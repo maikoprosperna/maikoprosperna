@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Maiko Casper
-
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true)
 
 ## 🚀 About Me
