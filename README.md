@@ -1,12 +1,10 @@
 <div align="center">
-
-<table>
-  <tr>
-    <td><img width="425" src="https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true" /></td>
-    <td><img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true&count_private=true" /></td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td><img width="425" src="https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true" /></td>
+      <td><img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true&count_private=true" /></td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 About Me
