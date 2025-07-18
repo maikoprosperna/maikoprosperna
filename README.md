@@ -3,8 +3,11 @@
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions and building user-friendly applications. I enjoy working with modern technologies and am always eager to learn new skills and tackle challenging projects.
 ## 💻 Languages & Technologies
+
+<div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=maikoprosperna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true" />
+</div>
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
