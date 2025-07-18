@@ -19,7 +19,7 @@ I'm a passionate software developer with a love for creating innovative solution
 > **Note:** These stats reflect public repository activity only. Private repository contributions are not included in the language breakdown due to GitHub API limitations.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,php,nextjs,tailwind,react,bootstrap,github,vscode,figma,mysql,express,nodejs,mongodb,laravel,codeigniter,docker,cloudflare,postman,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,php,nextjs,tailwind,react,bootstrap,github,vscode,figma,mysql,express,nodejs,mongodb,laravel,docker,cloudflare,postman,photoshop,illustrator" />
   </a>
 <!-- 
 ## 📈 Top Languages
