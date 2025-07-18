@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions and building user-friendly applications. I enjoy working with modern technologies and am always eager to learn new skills and tackle challenging projects.
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 ## 💻 Languages & Technologies
 
 ### Programming Languages
