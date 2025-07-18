@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=maikoprosperna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_rank=true&rank_icon=github" /> -->
 </div>
 
-> **Note:** These stats reflect public repository activity only. Private repository contributions are not included in the language breakdown due to GitHub API limitations.
+<!-- >> **Note:** These stats reflect public repository activity only. Private repository contributions are not included in the language breakdown due to GitHub API limitations. -->
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,php,nextjs,tailwind,react,bootstrap,github,vscode,figma,mysql,express,nodejs,mongodb,laravel,docker,cloudflare,postman,photoshop,illustrator" />
