@@ -1,3 +1,5 @@
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=maikoprosperna&theme=radical&hide_border=true&area=true)
+
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions and building user-friendly applications. I enjoy working with modern technologies and am always eager to learn new skills and tackle challenging projects.
 
