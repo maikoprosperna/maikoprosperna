@@ -42,13 +42,22 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Twig](https://img.shields.io/badge/-Twig-CCCC33?style=flat-square&logo=twig&logoColor=black)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+
+### Testing & Development Tools
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F63?style=flat-square&logo=vitest&logoColor=white)
+![Regex](https://img.shields.io/badge/-Regex-000000?style=flat-square&logo=regex&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,6 +68,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2496ED?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Design & Creative Tools
@@ -66,6 +76,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Sony Vegas](https://img.shields.io/badge/-Sony%20Vegas-000000?style=flat-square&logo=sony&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Specializations
 ![Web Performance](https://img.shields.io/badge/-Web%20Performance-4285F4?style=flat-square&logo=google&logoColor=white)
