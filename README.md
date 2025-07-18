@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating innovative solutions and building user-friendly applications. I enjoy working with modern technologies and am always eager to learn new skills and tackle challenging projects.
-<img align="right" src="https://github.com/maikoprosperna/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 ## 💻 Languages & Technologies
 
 ### Programming Languages
