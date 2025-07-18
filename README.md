@@ -8,6 +8,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 <table>
   <tr>
+    <td><img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikoprosperna&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /></td>
     <td><img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true&count_private=true" /></td>
   </tr>
 </table>
