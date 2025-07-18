@@ -72,11 +72,14 @@ I'm a passionate software developer with a love for creating innovative solution
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Photography](https://img.shields.io/badge/-Photography-000000?style=flat-square&logo=camera&logoColor=white)
 ![Network Administration](https://img.shields.io/badge/-Network%20Admin-1F2937?style=flat-square&logo=cisco&logoColor=white)
+
+<!--
 <table>
   <tr>
     <td><img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikoprosperna&layout=compact&theme=dark" /></td>
   </tr>
-</table>
+</table>-->
+
 ## 🔗 Connect with Me
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=globe&logoColor=white)](http://mrobles.work/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-oliver-robles/)
