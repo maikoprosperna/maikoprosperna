@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=maikoprosperna&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_rank=true&rank_icon=github" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true" />
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=maikoprosperna&theme=tokyonight&hide_border=true&show_rank=true&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
 ### Programming Languages
