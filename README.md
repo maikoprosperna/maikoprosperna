@@ -28,7 +28,8 @@ I'm a passionate software developer with a love for creating innovative solution
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,java,php,nextjs,tailwind,react,bootstrap,github,git,vscode,figma,mysql,express,nodejs,mongodb,laravel,docker,cloudflare,postman,photoshop,illustrator,jest,vitest,symfony,regex,redux,npm,materialui,less" />
   </a>
 </div>
-## 📈 Top Languages
+
+### 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikoprosperna&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ### Programming Languages
